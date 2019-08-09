@@ -1,0 +1,14 @@
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\discovery\AppInfoTest.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\discovery\MachineInfoTest.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\repository\metric\InMemoryMetricsRepositoryTest.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\nacos\FlowRuleNacosPublisher.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\nacos\FlowRuleNacosProvider.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\apollo\ApolloConfig.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\nacos\NacosConfig.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\apollo\FlowRuleApolloPublisher.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\nacos\NacosConfigUtil.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\util\VersionUtilsTest.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\config\DashboardConfigTest.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\apollo\ApolloConfigUtil.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\datasource\entity\SentinelVersionTest.java
+E:\SpringCloud-Learning\4-Finchley\alibaba-sentinel-dashboard-nacos\src\test\java\com\alibaba\csp\sentinel\dashboard\rule\apollo\FlowRuleApolloProvider.java
